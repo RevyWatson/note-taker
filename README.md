@@ -17,7 +17,7 @@ Note Taker is an application that can be used to write and save notes. The appli
 * When the user clicks on the Write icon in the navigation at the top of the page they are presented with empty fields to enter a new note title and the note’s text in the right-hand column.
 
 ## Credits
-This application utilizes [Express.js](https://expressjs.com/) back end. It saves and retrieves note data from a [JSON](https://www.json.org/json-en.html)file.
+This application utilizes [Express.js](https://expressjs.com/) back end. It saves and retrieves note data from a [JSON](https://www.json.org/json-en.html) file.
 
 ## Questions
   Have questions or comments about this application?
