@@ -1,7 +1,10 @@
 # Note Taker
 
 ## Description
-Note Taker is an application that can be used to write and save notes. The application’s front end has aspects were provided. It was my job to build the back end, connect the two, and then deploy the entire application to [Heroku](https://www.heroku.com/home).
+Note Taker is an application that can be used to write and save notes. The application’s front end aspects were provided. It was my job to build the back end, connect the two, and then deploy the entire application to [Heroku](https://www.heroku.com/home).
+
+### Deployed Aplication
+[Note Taker]()
 
 ## Table of Contents
 - [Acceptance Criteria](#acceptance-criteria)
